@@ -5,4 +5,3 @@ Besides Fake News, the sources responsible for spreading Fake News are much more
 
 The dataset used in designing the machine learning model is a SELF-PREPARED DATASET. List of Fake and Real News along with their sources have been collected from ‘Inshorts’ - a mobile app that offers the latest news stories summarised in 60 words. The dataset consists of 58937 News Articles from over 900 sources including both Real and Fake News during the period 2016-18.
 
-The documentation of the project is available in this Repository for Reference.
